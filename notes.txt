@@ -1,0 +1,13 @@
+1. Zip a single file
+2. Zip single file with compression
+3. Zip from a particular location
+4. Zip to a particular location
+5. Zip when file is not present
+6. Zip a folder
+7. Zip multiple files
+8. Show files inside a zip (zip_file_object.infolist(), zip_file_object.filelist, zip_file_object.printdir())
+9. Extract all file
+10. Extract a single file
+11. Extract a file to a path
+12. Set password
+str.encode
